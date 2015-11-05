@@ -1,0 +1,24 @@
+{
+  "name": "react-native-materialDialogAndroid",
+  "version": "1.0.0",
+  "description": "A React Native materialDialog for Android.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "alert",
+    "android",
+    "dialog",
+    "react-component"
+  ],
+  "author": "marsprince <bit_liujia@163.com>",
+  "license": "MIT",
+  "repository": "https://github.com/marsprince/react-native-materialDialogAndroid",
+  "bugs": "https://github.com/marsprince/react-native-materialDialogAndroid/issues",
+  "peerDependencies": {
+    "react-native": ">=0.13"
+  }
+}
