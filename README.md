@@ -1,6 +1,6 @@
 # react-native-materialdialog-android
 
-An AlertDialog for Android,followed [Material Design][md],native code here[source].
+An AlertDialog for Android,followed [Material Design][md],native code [here](https://github.com/drakeet/MaterialDialog).
 
 [md]: http://www.google.com/design/spec/material-design/introduction.html
 [source]:https://github.com/drakeet/MaterialDialog
