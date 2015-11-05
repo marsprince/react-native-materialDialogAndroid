@@ -1,5 +1,5 @@
 {
-  "name": "react-native-materialDialogAndroid",
+  "name": "react-native-materialdialog-android",
   "version": "1.0.0",
   "description": "A React Native materialDialog for Android.",
   "main": "index.js",

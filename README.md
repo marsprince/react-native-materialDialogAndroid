@@ -1,4 +1,4 @@
-# react-native-materialDialogAndroid
+# react-native-materialdialog-android
 
 An AlertDialog for Android,followed [Material Design][md],native code here[source].
 
@@ -8,7 +8,7 @@ An AlertDialog for Android,followed [Material Design][md],native code here[sourc
 ### Installation
 
 ```bash
-npm install --save react-native-materialDialogAndroid
+npm install --save react-native-materialdialog-android
 ```
 
 ### Add it to your android project
@@ -22,7 +22,7 @@ include ':app'
 
 include ':AlertAndroid'
 
-project(':AlertAndroid').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-materialDialogAndroid')
+project(':AlertAndroid').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-materialdialog-android')
 ```
 
 * In `android/app/build.gradle`
@@ -73,7 +73,7 @@ public class MainActivity extends Activity implements DefaultHardwareBackBtnHand
 * Basic:
 
 ```javascript
-var alert=require('react-native-materialDialogAndroid')
+var alert=require('react-native-materialdialog-android')
 
 alert.show("title","message","OK","Cancel")
 ```
@@ -81,7 +81,7 @@ alert.show("title","message","OK","Cancel")
 * More flexible:
 
 ```javascript
-var alert=require('react-native-materialDialogAndroid')
+var alert=require('react-native-materialdialog-android')
 
 var config={
             title:"title",
